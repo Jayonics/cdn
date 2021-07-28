@@ -1,0 +1,4 @@
+Options All +Indexes +FollowSymLinks +Includes +ExecCGI +MultiViews
+IndexOptions +FancyIndexing +FoldersFirst +ScanHTMLTitles +ShowForbidden +IconsAreLinks +VersionSort +NameWidth=* +DescriptionWidth=*
+Header set Access-Control-Allow-Origin "*"
+Require all granted
